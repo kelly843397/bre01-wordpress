@@ -5,17 +5,17 @@
 #
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
-/wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/wp-includes/
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+/worpress/wp-admin/
+/worpress/wp-content/index.php
+/worpress/wp-content/languages
+/worpress/wp-content/plugins/index.php
+/worpress/wp-content/themes/index.php
+/worpress/wp-includes/
+/worpress/index.php
+/worpress/license.txt
+/worpress/readme.html
+/worpress/wp-*.php
+/worpress/xmlrpc.php
 
 # Configuration
 wp-config.php

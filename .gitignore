@@ -18,22 +18,22 @@
 /worpress/xmlrpc.php
 
 # Configuration
-wp-config.php
+/worpresswp-config.php
 
 # Example themes
-/wp-content/themes/twenty*/
+/worpress/wp-content/themes/twenty*/
 
 # Example plugin
-/wp-content/plugins/hello.php
+/worpress/wp-content/plugins/hello.php
 
 # Uploads
-/wp-content/uploads/
+/worpress/wp-content/uploads/
 
 # Log files
-*.log
+/worpress*.log
 
 # htaccess
-/.htaccess
+/worpress/.htaccess
 
 # All plugins
 #
